@@ -1,4 +1,8 @@
 _repo: The-Children-s-Tabernacle-Or-Hand-Work-and-Heart-Work_49643
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49643-h/images/cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49643#The-Children-s-Tabernacle-Or-Hand-Work-and-Heart-Work
 gutenberg_issued: '2015-08-07'
 gutenberg_type: Text
 identifiers:
